@@ -1,0 +1,116 @@
+/*phones with width 0 to 480px*/
+@media only screen and (max-width: 480px){
+  
+}
+
+
+/*phones with width upto 767px*/
+@media only screen and (max-width: 767px){
+    .row{
+        padding-left: 0px;
+}
+    .box p{
+        width: 200%;
+}
+}
+
+/*phones with width 0 to 1023px*/
+@media only screen and (max-width: 1023px){
+ section{
+     padding-left: 0px;
+    margin-left:-27px;
+}
+.featurepara{
+    margin-left: 10%;
+    text-align: center;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    }
+   .box p,
+    .box i,
+    .box h3{
+       width: 64%;
+       letter-spacing: 0px;
+       word-spacing: -1px;
+       margin-left: 17px;
+    }
+    .box{
+        margin-right: 10px;}
+    .contact{
+        margin-left:10%;
+    }
+    .linka{
+        font-size: 16px;
+    }
+    .steps p{
+        width: 70%;
+        letter-spacing: 0px;
+        word-spacing: 0px;
+        margin-right: 0;
+        text-align: center;
+    }
+    .steps div{
+        margin-right: 18px;
+         margin-left: 18px;
+    }
+    .help{
+        width:83%;
+        margin-left: 65px;
+    }
+    .hubimages{
+        word-spacing: 0px;
+        letter-spacing: 0px;
+    }
+    .customer{
+        margin-left: 0;
+        padding-left: 0;
+}
+    .review p{
+        padding-left: -10px;
+        width: 65%;
+}
+    .signupbox{
+       width:62%;
+        margin-left:0px;
+}
+.social-links{
+    width:70%;
+}
+    .social-links i{
+        margin-right: 10px;
+}
+  }
+.footer{
+    margin-top: 28px;
+}
+}
+/*phones with width 0 to 1200x*/
+@media only screen and (max-width: 1200px) {
+  
+    .heading {
+        width: 100%;
+        padding: 0 2%;
+    }
+    .row {padding: 0 2%; }
+    
+     .featurepara{
+    width: 70%;
+    margin-left: 170px;
+    margin-top: 70px;
+    margin-bottom: 35px;
+    letter-spacing: 0.5px;
+    font-size: 22px;
+    } 
+ .featureheading{
+     padding-top:25px;
+    }
+  .iphone{
+    width: 300px;
+    margin-right: 100px;
+}
+.col {
+	width: 30%;
+}
+.signupbox{
+    margin-right: 5px;
+    }
